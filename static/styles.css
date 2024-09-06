@@ -1,3 +1,5 @@
+# Baseline stylesheet with box-sizing
+# and move to top-left of screen.
 * {
     margin: 0;
     padding: 0;
